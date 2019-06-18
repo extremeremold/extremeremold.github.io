@@ -1,0 +1,6 @@
+.menu > a {
+  color:black;
+}
+.menu > a:visited{
+  color: red;
+}
